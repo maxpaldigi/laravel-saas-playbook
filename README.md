@@ -9,6 +9,7 @@ Every tip is short, copy-pasteable, and learned the hard way in production.
 <!-- tips:start -->
 - [](tips/.md)
 - [Catch N+1 queries before they reach production](tips/001-prevent-lazy-loading.md)
+- [Stop scheduled jobs from piling up](tips/002-without-overlapping.md)
 <!-- tips:end -->
 
 ## Contributing
