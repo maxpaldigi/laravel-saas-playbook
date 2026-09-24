@@ -7,7 +7,6 @@ Every tip is short, copy-pasteable, and learned the hard way in production.
 ## Tips
 
 <!-- tips:start -->
-- [](tips/.md)
 - [Catch N+1 queries before they reach production](tips/001-prevent-lazy-loading.md)
 - [Stop scheduled jobs from piling up](tips/002-without-overlapping.md)
 - [Never send email inside the request](tips/003-queue-your-mail.md)
