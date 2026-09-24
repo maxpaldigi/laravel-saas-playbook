@@ -7,6 +7,7 @@ Every tip is short, copy-pasteable, and learned the hard way in production.
 ## Tips
 
 <!-- tips:start -->
+- [](tips/.md)
 <!-- tips:end -->
 
 ## Contributing
