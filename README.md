@@ -13,6 +13,7 @@ Every tip is short, copy-pasteable, and learned the hard way in production.
 - [Let models clean up after themselves](tips/004-prune-old-records.md)
 - [Your scheduler can keep a serverless database awake](tips/005-scheduler-vs-scale-to-zero.md)
 - [Rate limit your login form per email and IP](tips/006-rate-limit-login.md)
+- [Make payment webhooks idempotent](tips/007-idempotent-webhooks.md)
 <!-- tips:end -->
 
 ## Contributing
