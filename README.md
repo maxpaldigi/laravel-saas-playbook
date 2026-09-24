@@ -12,6 +12,7 @@ Every tip is short, copy-pasteable, and learned the hard way in production.
 - [Stop scheduled jobs from piling up](tips/002-without-overlapping.md)
 - [Never send email inside the request](tips/003-queue-your-mail.md)
 - [Let models clean up after themselves](tips/004-prune-old-records.md)
+- [Your scheduler can keep a serverless database awake](tips/005-scheduler-vs-scale-to-zero.md)
 <!-- tips:end -->
 
 ## Contributing
